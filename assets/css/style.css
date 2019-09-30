@@ -209,29 +209,34 @@ body {
  border-style: solid;
  border-width: 1px;
  border-color: #dddddd;
- float: left;}
+ float: left;
+}
  
 h4 {
   font-family: "Georgia", Times, "Times New Roman", serif;
   font-size: 20px;
-  color: #ffffff;
+  color: white;
   padding-top: 18px;
   text-align: center;
+
 }
 article {
  background-color: #4aaaa5;
   width: 264px;
   height: 60px;
   margin-top: 126px;
+  color: white;
 }
-.hang {
- background-image: url("../images/port_1.jpeg.jpg");
+.dbg {
+ background-image: url("../images/1\ star\ .jpg");
  background-repeat: no-repeat;
  background-size: 264px 196px;
  width: 264px;
  height: 196px;
  margin-left: 30px;
  float: left;
+ color: white;
+ 
 }
 .rpg {
  background-image: url("../images/port_2.jpeg.jpg");
